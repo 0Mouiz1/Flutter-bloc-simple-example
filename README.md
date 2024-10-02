@@ -13,12 +13,6 @@ This project is a step-by-step introduction to BLoC, aimed at **beginners** who 
 - **Reactive Programming**: Utilize streams to update the UI in response to state changes.
 - **Modular Code**: The app is structured to keep business logic and UI separate, improving readability and maintainability.
 
-## 🖥️ Screenshots
-
-| Counter App UI | Increment/Decrement |
-|---|---|
-| ![Counter App](https://github.com/user-attachments/assets/counter-screenshot.png) | The user can increment or decrement the counter.|
-
 ## 🛠️ Technologies Used
 
 - **Flutter**: A powerful UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -64,9 +58,8 @@ Before running this project, make sure you have:
 
 Watch the full video tutorial on YouTube for a detailed explanation of how BLoC is implemented in this project:
 
-[![YouTube Tutorial]([https://youtu.be/your-video-id](https://www.youtube.com/watch?v=rF6eq1oru-Y&t=410s&ab_channel=MitchKoko))
-
+[![YouTube Tutorial](https://img.youtube.com/vi/your-video-id/hqdefault.jpg)]([https://youtu.be/your-video-id](https://www.youtube.com/watch?v=rF6eq1oru-Y&ab_channel=MitchKoko))
 ---
-
 Happy Coding! 🎉
 
+ 
